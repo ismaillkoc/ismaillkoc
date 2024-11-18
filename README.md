@@ -1,5 +1,7 @@
 # 👋 Hakkımda
-Software developer olarak, .NET ve C# ile projeler oluşturma konusunda odaklandım ve bu alanda kendimi geliştiriyorum. 2023 yılında C# Form ile Anaokulu & Kreş Otomasyon Sistemi’ni oluşturdum ve şu anda bazı ERP projeleri üzerinde çalışıyorum. Ayrıca, Python ile geliştirdiğim CNN, Transfer Learning ve Yapay Sinir Ağı tabanlı bir model kullanarak muz meyvesinin gelişim evrelerini sınıflandıran bir yapay zeka modeli oluşturdum. Talep üzerine, askeri kullanım için özel olarak tasarladığım Zimmet Takip Sistemi ise, Kotlin, Java ve SQLite kullanılarak envanter takibi ve hasta bilgilerini yönetmeyi kolaylaştırmak amacıyla geliştirdim.
+Merhaba
+
+Yazılım geliştirme alanında, özellikle .NET platformunda C# ile projeler oluşturma konusunda derinlemesine bir bilgi birikimi ve deneyim kazanmayı hedefliyorum. Bu alanda kendimi sürekli olarak geliştiriyor ve yenilikçi çözümler üretmek için çalışıyorum. İlgi alanlarım bulut tabanlı yazılımlar, masaüstü uygulamaları, yapay zeka ve gömülü yazılımlar üzerine yoğunlaşmaktadır. Bu dinamik ve hızla gelişen alanlardan birinde uzmanlaşmayı hedefliyorum ve her zaman yeni bilgiler öğrenmeye açığım. 
 
 Aynı zamanda, baştan sona admin panelli, dil seçenekleri bulunan, responsive tasarım ve SEO uyumluluğu içeren kurumsal web siteleri geliştirerek 100’den fazla web sitesinde de revizyon gerçekleştirdim. Kurumsal e-posta kurulumu (POP, IMAP) ve Arama Motoru Optimizasyonu (SEO) hakkında bilgi sahibiyim. Gelir-Gider Yönetimi ve Stok Takip gibi proje bazlı web uygulamalarında tecrübem olup, orta düzeyde WordPress deneyimim bulunmaktadır.
 
