@@ -1,7 +1,7 @@
 # 👋 Hakkımda
 Merhaba
 
-Yazılım geliştirme alanında, Python ve .NET platformlarında projeler oluşturma konusunda derinlemesine bilgi birikimi ve deneyim kazanmayı hedefliyorum. İlgi alanlarım bulut tabanlı yazılımlar, masaüstü uygulamaları, yapay zeka, veri madenciliği ve gömülü yazılımlar üzerine yoğunlaşmaktadır. Bu dinamik ve hızla gelişen alanlardan birinde uzmanlaşmayı hedefliyorum ve her zaman yeni bilgiler öğrenmeye açığım. 
+Yazılım geliştirme alanında ilgi alanlarım sırasıyla: makine öğrenmesi, veri analizi, yapay zeka, bilgisayarlı görü üzerine yoğunlaşmaktadır. Bu dinamik ve hızla gelişen alanlardan birinde uzmanlaşmayı hedefliyorum ve her zaman yeni bilgiler öğrenmeye açığım
 
 Aynı zamanda, baştan sona admin panelli, dil seçenekleri bulunan, responsive tasarım ve SEO uyumluluğu içeren kurumsal web siteleri geliştirerek 100’den fazla web sitesinde de revizyon gerçekleştirdim. Kurumsal e-posta kurulumu (POP, IMAP) ve Arama Motoru Optimizasyonu (SEO) hakkında bilgi sahibiyim. Gelir-Gider Yönetimi ve Stok Takip gibi proje bazlı web uygulamalarında tecrübem olup, orta düzeyde WordPress deneyimim bulunmaktadır.
 
